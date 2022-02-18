@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Jogo de RPG usando OO/1.0.0": {
+        "runtime": {
+          "Jogo de RPG usando OO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jogo de RPG usando OO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

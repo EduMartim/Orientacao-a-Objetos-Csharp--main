@@ -1,0 +1,32 @@
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\bin\Debug\net5.0\Jogo de RPG usando OO.exe
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\bin\Debug\net5.0\Jogo de RPG usando OO.deps.json
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\bin\Debug\net5.0\Jogo de RPG usando OO.runtimeconfig.json
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\bin\Debug\net5.0\Jogo de RPG usando OO.runtimeconfig.dev.json
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\bin\Debug\net5.0\Jogo de RPG usando OO.dll
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\bin\Debug\net5.0\ref\Jogo de RPG usando OO.dll
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\bin\Debug\net5.0\Jogo de RPG usando OO.pdb
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\obj\Debug\net5.0\Jogo de RPG usando OO.csproj.AssemblyReference.cache
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\obj\Debug\net5.0\Jogo de RPG usando OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\obj\Debug\net5.0\Jogo de RPG usando OO.AssemblyInfoInputs.cache
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\obj\Debug\net5.0\Jogo de RPG usando OO.AssemblyInfo.cs
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\obj\Debug\net5.0\Jogo de RPG usando OO.csproj.CoreCompileInputs.cache
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\obj\Debug\net5.0\Jogo de RPG usando OO.dll
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\obj\Debug\net5.0\ref\Jogo de RPG usando OO.dll
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\obj\Debug\net5.0\Jogo de RPG usando OO.pdb
+C:\Users\eduma\Desktop\Teste_Csharp\Jogo de RPG usando OO\obj\Debug\net5.0\Jogo de RPG usando OO.genruntimeconfig.cache
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\bin\Debug\net5.0\Jogo de RPG usando OO.exe
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\bin\Debug\net5.0\Jogo de RPG usando OO.deps.json
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\bin\Debug\net5.0\Jogo de RPG usando OO.runtimeconfig.json
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\bin\Debug\net5.0\Jogo de RPG usando OO.runtimeconfig.dev.json
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\bin\Debug\net5.0\Jogo de RPG usando OO.dll
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\bin\Debug\net5.0\ref\Jogo de RPG usando OO.dll
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\bin\Debug\net5.0\Jogo de RPG usando OO.pdb
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\obj\Debug\net5.0\Jogo de RPG usando OO.csproj.AssemblyReference.cache
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\obj\Debug\net5.0\Jogo de RPG usando OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\obj\Debug\net5.0\Jogo de RPG usando OO.AssemblyInfoInputs.cache
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\obj\Debug\net5.0\Jogo de RPG usando OO.AssemblyInfo.cs
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\obj\Debug\net5.0\Jogo de RPG usando OO.csproj.CoreCompileInputs.cache
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\obj\Debug\net5.0\Jogo de RPG usando OO.dll
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\obj\Debug\net5.0\ref\Jogo de RPG usando OO.dll
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\obj\Debug\net5.0\Jogo de RPG usando OO.pdb
+C:\Users\eduma\Documents\Cursos_Programacao\Programação\C#\Teste_Csharp\Orientacao-a-Objetos-Csharp--main\obj\Debug\net5.0\Jogo de RPG usando OO.genruntimeconfig.cache

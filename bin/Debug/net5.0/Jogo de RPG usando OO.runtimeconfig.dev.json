@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eduma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eduma\\.nuget\\packages"
+    ]
+  }
+}
